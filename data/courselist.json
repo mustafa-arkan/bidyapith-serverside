@@ -1,26 +1,51 @@
 [
     {
       "id": "01",
-      "name": "Javascript"
+
+      "category_id":"01",
+      "name": "Javascript",
+      "title":"JS advanced-all you need to know",
+      "img":"https://blog.logrocket.com/wp-content/uploads/2020/12/javascript-custom-events.png",
+      "details":"This Advanced JavaScript course by Bidyapith_Academy will take you from understanding the basics of JavaScript, to learning it to the point that you can teach it to others, impress co-workers, and wow future.In this advanced JavaScript course you will learn more advanced JavaScript concepts including: Scope and the JavaScript compiler,function,ES-6,array,object,oop etc."
     },
     {
       "id": "02",
-      "name": "React"
+      "category_id":"02",
+      "name": "React",
+      "title":"React advanced-all you need to know",
+      "img":"https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+      "details":"This Advanced React course by Bidyapith_Academy will take you from understanding the basics of JavaScript&React to learning it to the point that you can teach it to others, impress co-workers, and wow future.In this advanced React course you will learn more advanced JavaScript concepts and React  including: Scope and the JavaScript compiler,function,ES-6,array,object,oop,router,useState,useEffect and more on react.."
     },
     {
       "id": "03",
-      "name": "Node JS"
+      "category_id":"03",
+      "name": "Node JS",
+      "title":"Node JS advanced-all you need to know",
+      "img":"https://www.freecodecamp.org/news/content/images/size/w2000/2019/10/node-js-development-company.png",
+      "details":"This Advanced Node js course by Bidyapith_Academy will take you from understanding the basics of Node js, to learning it to the point that you can teach it to others, impress coworkers, and wow future.In this advanced Node js course you will learn more advanced Node js concepts including: Scope and the Node js compiler,backend integration,firebase etc."
     },
     {
       "id": "04",
-      "name": "Python"
+      "category_id":"04",
+      "name": "Python",
+      "title":"Python advanced-all you need to know",
+      "img":"https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Python-programming-india.jpg",
+      "details":"This Advanced Python course by Bidyapith_Academy will take you from understanding the basics of Python, to learning it to the point that you can teach it to others, impress coworkers, and wow future.In this advanced Python course you will learn more advanced Python concepts including: Scope and the Python compiler,function,class,tuple,array,object,oop etc."
     },
     {
       "id": "05",
-      "name": "Flutter"
+      "category_id":"05",
+      "name": "React Native",
+      "title":"React Native advanced-all you need to know",
+      "img":"https://crowdbotics.ghost.io/content/images/size/w1000/2021/05/React-Native-Img.png",
+      "details":"This Advanced React Native course by Bidyapith_Academy will take you from understanding the basics ofReact Native, to learning it to the point that you can teach it to others, impress coworkers, and wow future.In this advanced React Native course you will learn more advanced React Native concepts including: Scope and the React Native compiler,function,array,object,oop,android etc."
     },
     {
       "id": "06",
-      "name": "Mongo DB"
+      "category_id":"06",
+      "name": "Mongo DB",
+      "title":"Mongo DB advanced-all you need to know",
+      "img":"https://miro.medium.com/max/1400/1*0lgunvVYa8gZ_sfMHflyvw.jpeg",
+      "details":"This Advanced Mongo DB course by Bidyapith_Academy will take you from understanding the basics of Mongo DB, to learning it to the point that you can teach it to others, impress coworkers, and wow future.In this advanced Mongo DB course you will learn more advanced Mongo DB concepts including: Scope and the Mongo DB compiler,function,delete,relation,data integration etc."
     }
   ]
