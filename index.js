@@ -37,22 +37,22 @@ res.send(category_news)
 
 
 
+app.get('/checkout/:id',(req,res)=>{
+
+    const id=req.params.id
+    
+    const checkout_compo=categories.filter(c=>c.category_id===id)
+    res.send(checkout_compo)
+    //console.log(req.params.id)
+    
+    
+    })
 
 
 
 
 
 
-// app.get('/news/:id',(req,res)=>{
-
-// const id=req.params.id
-
-// const selectedNews=categories.find(n=>n.id===id)
-// res.send(selectedNews)
-// //console.log(req.params.id)
-
-
-// })
 
 
 
