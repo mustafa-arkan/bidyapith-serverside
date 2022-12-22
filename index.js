@@ -30,7 +30,7 @@ const id=req.params.id
 
 const category_news=categories.filter(n=>n.category_id===id)
 res.send(category_news)
-//console.log(req.params.id)
+
 
 
 })
@@ -47,17 +47,6 @@ app.get('/checkout/:id',(req,res)=>{
     
     
     })
-
-
-
-
-
-
-
-
-
-
-
 
 
 
